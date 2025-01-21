@@ -1,6 +1,6 @@
 'use strict';
 
-exports.redis = {
+exports.taos = {
   default: {
   }
 };
