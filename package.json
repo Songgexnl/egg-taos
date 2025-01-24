@@ -1,6 +1,6 @@
 {
   "name": "egg-taos",
-  "version": "1.0.2",
+  "version": "2.0.3",
   "description": "Taos3 plugin for egg",
   "eggPlugin": {
     "name": "taos"
