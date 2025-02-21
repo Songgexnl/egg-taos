@@ -10,7 +10,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-taos --save
+$ npm install egg-taos --save
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ config.taos = {
     client: {
       host: "",
       port: 6041,
-      user: root,
+      user: "root",
       passwd: "",
       db: "",
     }
